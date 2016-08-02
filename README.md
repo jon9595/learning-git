@@ -1,2 +1,2 @@
 # learning-git
-# much easier than I though
+ much easier than I though
